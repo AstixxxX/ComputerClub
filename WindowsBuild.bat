@@ -1,0 +1,1 @@
+cd ./src && g++ -o ../ComputerClub.exe -std=c++20 main.cpp club.cpp input_handler.cpp my_time.cpp table.cpp -I ../include/
